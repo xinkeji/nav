@@ -3,7 +3,7 @@
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
   "loading": "random",
-  "showGithub": true,
+  "showGithub": false,
   "title": "小心导航",
   "description": "小心导航",
   "keywords": "小心导航",
