@@ -73,6 +73,6 @@ export async function createFile(
 }
 
 export function getCDN(path: string, branch = 'image') {
-  return `https://cdn.jsdelivr.net/gh/${authorName}/${repoName}@${branch}/${path}`
+  return `https://jsd.cdn.zzko.cn/gh/${authorName}/${repoName}@${branch}/${path}`
   // return `https://raw.sevencdn.com/${authorName}/${repoName}/image/${path}`
 }
